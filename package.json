@@ -1,0 +1,17 @@
+{
+  "name": "temphumdity",
+  "version": "1.0.0",
+  "description": "dht11 connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arduino",
+    "temperature",
+    "humidity",
+    "johnny-five"
+  ],
+  "author": "rob.cornelius@gmail.com",
+  "license": "MIT"
+}
