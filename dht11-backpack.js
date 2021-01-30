@@ -1,5 +1,5 @@
 const { Board, Hygrometer, Temerature } = require('johnny-five');
-cost board = new Board();
+const board = new Board();
 
 board.on('ready', () => {
   var hygrometer = new Hygrometer({
